@@ -4,4 +4,4 @@ There should be an image after this line.
 
 The next line has an image that's in this repo.
 
-.. image:: https://github.com/intuited/test-images-rst/raw/huge-image/screenshot.jpg
+.. image:: http://github.com/intuited/test-images-rst/raw/huge-image/screenshot.png
